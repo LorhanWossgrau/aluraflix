@@ -1,5 +1,23 @@
 body {
     color:aliceblue
-    background:black
-    
+    background: black
+}
+
+header {
+    border: solid 2px rgb(rgb(255, 51, 0);
+    padding: 20px;
+    font-size: 32px;
+color: rgb(rgb(4, 160, 50):
+}
+
+section {
+    background: rgb(6, 6, 212));
+    padding-botton: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
 }
